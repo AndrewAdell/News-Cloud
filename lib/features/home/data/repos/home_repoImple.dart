@@ -1,7 +1,7 @@
 import 'package:dartz/dartz.dart';
 import 'package:dio/dio.dart';
 import 'package:news_app/core/errors/failures.dart';
-import 'package:news_app/core/errors/util/api_service.dart';
+import 'package:news_app/core/util/api_service.dart';
 import 'package:news_app/features/home/data/model/artical_model.dart';
 import 'package:news_app/features/home/data/repos/home_repo.dart';
 

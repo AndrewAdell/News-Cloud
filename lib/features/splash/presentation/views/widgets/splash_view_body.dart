@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:news_app/core/errors/util/app_router.dart';
-import 'package:news_app/core/errors/util/assets.dart';
+import 'package:news_app/core/util/app_router.dart';
+import 'package:news_app/core/util/assets.dart';
 import 'sliding_text.dart';
 
 class SplashViewbody extends StatefulWidget {

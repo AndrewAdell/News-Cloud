@@ -3,10 +3,10 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
 import 'package:modal_progress_hud_nsn/modal_progress_hud_nsn.dart';
 import 'package:news_app/core/colors.dart';
-import 'package:news_app/core/errors/util/app_router.dart';
-import 'package:news_app/core/errors/widgets/custom_button.dart';
-import 'package:news_app/core/errors/widgets/custom_text_field.dart';
-import 'package:news_app/core/errors/widgets/show_snack_bar.dart';
+import 'package:news_app/core/util/app_router.dart';
+import 'package:news_app/core/widgets/custom_button.dart';
+import 'package:news_app/core/widgets/custom_text_field.dart';
+import 'package:news_app/core/widgets/show_snack_bar.dart';
 import 'package:news_app/features/auth/presentation/views/manager/login_cubit/login_cubit.dart';
 import 'package:news_app/features/auth/presentation/views/manager/login_cubit/login_state.dart';
 

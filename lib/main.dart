@@ -1,8 +1,8 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:news_app/core/errors/util/app_router.dart';
-import 'package:news_app/core/errors/util/service_locator.dart';
+import 'package:news_app/core/util/app_router.dart';
+import 'package:news_app/core/util/service_locator.dart';
 import 'package:news_app/features/auth/presentation/views/manager/login_cubit/login_cubit.dart';
 import 'package:news_app/features/auth/presentation/views/manager/register_cubit/register_cubit.dart';
 import 'package:news_app/features/home/data/repos/home_repoImple.dart';
